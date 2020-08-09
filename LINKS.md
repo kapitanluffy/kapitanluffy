@@ -1,0 +1,2 @@
+- [Twitter](https://twitter.com/kapitanluffy)
+- [Steam](https://steamcommunity.com/id/kapitanluffy)
