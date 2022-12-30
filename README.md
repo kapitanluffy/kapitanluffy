@@ -1,16 +1,24 @@
-### Person is under construction 🔨
+__James C#####__ | Integrations Lead @ Al###
 
-<!--
-**kapitanluffy/kapitanluffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Languages
+> PHP | Javascript | Typescript | Python
 
-Here are some ideas to get you started:
+##### Tools
+> Sublime Text | Firefox | Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Interests
+> Chess | Cybersecurity | Open Source | Dev Ops
+
+##### Not enough Javascript?
+> Vue | React | Redux | Typescript | Nuxt | Next | Nest | Graphql | Express | Jest | Storybook | Webpack
+
+##### More Buzzwords?
+> Docker | AWS | GCP | RabbitMQ | CI/CD | SOLID | SQL | NoSQL | TDD | DDD | Design Patterns | REST
+
+##### Sublime Text Fanboy's Plugins:
+- [Sublime Tips](https://github.com/kapitanluffy/sublime-tips)
+- [Graphql Playground](https://github.com/kapitanluffy/sublime-graphql-playground)
+- [Semantic Highlighter](https://github.com/kapitanluffy/sublime-semantic-highlighter)
+- [Plugin Logger](https://github.com/kapitanluffy/sublime-plugin-logger)
+
+*kapitanluffy [@] gmail.com*
