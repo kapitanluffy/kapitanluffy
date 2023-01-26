@@ -15,10 +15,12 @@ __James C#####__ | Integrations Lead @ Al###
 ##### More Buzzwords?
 > Docker | AWS | GCP | RabbitMQ | CI/CD | SOLID | SQL | NoSQL | TDD | DDD | Design Patterns | REST
 
-##### Sublime Text Fanboy's Plugins:
+##### Sublime Text Fanboy's Plugins & Tools:
 - [Sublime Tips](https://github.com/kapitanluffy/sublime-tips)
 - [Graphql Playground](https://github.com/kapitanluffy/sublime-graphql-playground)
 - [Semantic Highlighter](https://github.com/kapitanluffy/sublime-semantic-highlighter)
 - [Plugin Logger](https://github.com/kapitanluffy/sublime-plugin-logger)
+- [Theme Generator](https://github.com/kapitanluffy/sublime-theme-generator)
+
 
 *kapitanluffy [@] gmail.com*
