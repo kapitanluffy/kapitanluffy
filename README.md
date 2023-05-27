@@ -1,4 +1,4 @@
-__James C#####__ | Integrations Lead @ Al###
+__James C#####__ | Team Lead @ Re###
 
 ##### Languages
 > PHP | Javascript | Typescript | Python
