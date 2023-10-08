@@ -16,6 +16,7 @@ __James C#####__ | Team Lead @ Re###
 > Docker | AWS | GCP | RabbitMQ | CI/CD | SOLID | SQL | NoSQL | TDD | DDD | Design Patterns | REST
 
 ##### Sublime Text Fanboy's Plugins & Tools:
+- 🧭 [Sublime Compass]([https://github.com/kapitanluffy/sublime-tips](https://github.com/kapitanluffy/sublime-compass))
 - [Sublime Tips](https://github.com/kapitanluffy/sublime-tips)
 - [Graphql Playground](https://github.com/kapitanluffy/sublime-graphql-playground)
 - [Semantic Highlighter](https://github.com/kapitanluffy/sublime-semantic-highlighter)
