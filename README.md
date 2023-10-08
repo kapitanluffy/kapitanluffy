@@ -17,10 +17,10 @@ __James C#####__ | Team Lead @ Re###
 
 ##### Sublime Text Fanboy's Plugins & Tools:
 - 🧭 [Sublime Compass](https://github.com/kapitanluffy/sublime-tips)
-- [Sublime Tips](https://github.com/kapitanluffy/sublime-tips)
-- [Graphql Playground](https://github.com/kapitanluffy/sublime-graphql-playground)
-- [Semantic Highlighter](https://github.com/kapitanluffy/sublime-semantic-highlighter)
-- [Plugin Logger](https://github.com/kapitanluffy/sublime-plugin-logger)
+- 💡 [Sublime Tips](https://github.com/kapitanluffy/sublime-tips)
+- ❄ [Graphql Playground](https://github.com/kapitanluffy/sublime-graphql-playground)
+- 🎨 [Semantic Highlighter](https://github.com/kapitanluffy/sublime-semantic-highlighter)
+- 📜 [Plugin Logger](https://github.com/kapitanluffy/sublime-plugin-logger)
 - [Theme Generator](https://github.com/kapitanluffy/sublime-theme-generator)
 
 
