@@ -1,4 +1,4 @@
-__James C#####__ | Team Lead @ Re###
+__James C#####__ | Developer @ Re##
 
 ##### Languages
 > PHP | Javascript | Typescript | Python
